@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramkumar N</h1>
-<h3 align="center">A Full Stack Developer with 2 years of experience, from Tamilnadu</h3>
+<h3 align="center">A Full Stack Developer(angular) with 2 years of experience, from Tamilnadu</h3>
 
 - 🔭 I’m currently working in a pvt ltd **company as a Full Stack Developer**
 
